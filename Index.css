@@ -11,7 +11,7 @@
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   font-size: 5rem;
   font-family: Anton;
-  margin: 451px 462px 0 0;
+  margin: 451px 60px 0 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -33,7 +33,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 262px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -48,7 +48,6 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 250px;
-    margin-right: 42px;
     font-size: 4.5rem;
   }
 
@@ -65,7 +64,6 @@
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
-    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
