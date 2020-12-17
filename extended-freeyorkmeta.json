@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://free-york.com/images/Logo64-FY.png",
+		"url_png_logo": "https://free-york.com/images/Banner-FY.png",
+		"location": "Jakarta, Indonesia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "frmnadi",
+			"facebook_handle": "freeyorkpool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "FreeYorkPool",
+		},
+		"about": {
+			"me": "We are a Cardano enthusiast who loves to run stake pool.",
+			"server": "1 block producer + 2 relays with uptime 100.0%."
+		}
+	},
+	"my-pool-ids": {
+		"0": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4"
+	},
+	"when-satured-then-recommend": {
+       		"0": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4"
+   	},
+	"telegram-admin-handle": {
+		"0": "frmnadi"
+	},
+	"verification": "e9aaa199ec8aaec6689f1b6b1c7eb1f5" 
+}
