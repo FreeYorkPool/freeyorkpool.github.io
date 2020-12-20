@@ -14,7 +14,7 @@
 		},
 		"about": {
 			"me": "We are a Cardano enthusiast who loves to run stake pool.",
-			"server": "1 block producer + 2 relays with uptime 100.0%."
+			"server": "1 block producer + 2 relays with uptime 99.99%."
 		}
 	},
 	"my-pool-ids": {
