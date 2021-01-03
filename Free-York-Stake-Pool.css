@@ -203,12 +203,12 @@
     font-size: 3rem;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 100px;
+  min-height: 110px;
 }
 
 .u-section-2 .u-text-1 {
   font-size: 2.25rem;
-  margin: 30px 813px 30px 32px;
+  margin: 30px 813px 0 32px;
 }
 
 @media (max-width: 1199px) {
@@ -554,7 +554,7 @@
 
 .u-section-6 .u-layout-wrap-1 {
   margin-top: 0;
-  margin-bottom: 32px;
+  margin-bottom: 0;
 }
 
 .u-section-6 .u-layout-cell-1 {
