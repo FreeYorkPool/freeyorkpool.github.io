@@ -32203,6 +32203,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     margin-left: -28px;
+    width: auto;
   }
 
   .u-header .u-social-icons-1 {
@@ -32212,6 +32213,8 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-header .u-image-1 {
     margin-left: 0;
+    width: auto;
+    height: 38px;
   }
 
   .u-header .u-social-icons-1 {
