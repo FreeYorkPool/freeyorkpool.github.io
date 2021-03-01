@@ -1,11 +1,9 @@
-.u-section-1 .u-sheet-1 {
-  min-height: 736px;
+.u-section-1 {
+  background-image: url("images/Cardano-Only.png");
 }
 
-.u-section-1 .u-image-1 {
-  width: 767px;
-  height: 707px;
-  margin: 14px auto 0;
+.u-section-1 .u-sheet-1 {
+  min-height: 736px;
 }
 
 .u-section-1 .u-text-1 {
@@ -14,7 +12,7 @@
   font-style: normal;
   font-weight: 700;
   width: 250px;
-  margin: -675px auto 0;
+  margin: 46px auto 0;
 }
 
 .u-section-1 .u-custom-html-1 {
@@ -24,16 +22,16 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 784px;
   }
 
-  .u-section-1 .u-image-1 {
-    margin-top: 0;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: -687px;
+    margin-top: 20px;
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -48,13 +46,8 @@
     min-height: 715px;
   }
 
-  .u-section-1 .u-image-1 {
-    width: 720px;
-    height: 664px;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: -618px;
+    margin-top: 46px;
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -65,18 +58,6 @@
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 591px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 498px;
-    margin-top: 42px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: -494px;
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -90,18 +71,6 @@
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 604px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 314px;
-    margin-top: 150px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: -418px;
   }
 }.u-section-2 {
   background-image: none;
