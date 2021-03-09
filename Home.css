@@ -384,15 +384,15 @@
   line-height: 66px;
   font-weight: 700;
   animation-duration: 1000ms;
-  margin: 31px 21px 0 -21px;
+  margin: 31px 18px 0 -18px;
 }
 
 .u-section-4 .u-text-2 {
   animation-duration: 1000ms;
-  font-weight: normal;
   line-height: 25.6px;
   font-size: 1rem;
-  margin: 8px 0 0;
+  font-weight: 500;
+  margin: 0;
 }
 
 .u-section-4 .u-btn-1 {
@@ -405,7 +405,7 @@
   text-transform: uppercase;
   background-image: none;
   animation-duration: 1000ms;
-  margin: 31px auto 0;
+  margin: 39px auto 0;
   padding: 9px 41px 11px 39px;
 }
 
@@ -555,7 +555,7 @@
   }
 
   .u-section-4 .u-btn-2 {
-    margin-top: 31px;
+    margin-top: 39px;
     margin-left: -1px;
     margin-right: -1px;
   }
@@ -597,7 +597,7 @@
 
 .u-section-5 .u-table-cell-6 {
   background-image: none;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .u-section-5 .u-table-cell-9 {
