@@ -249,10 +249,6 @@
     min-height: 986px;
   }
 
-  .u-section-3 .u-layout-wrap-1 {
-    position: relative;
-  }
-
   .u-section-3 .u-layout-cell-1 {
     min-height: 276px;
   }
@@ -371,10 +367,6 @@
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
     min-height: 986px;
-  }
-
-  .u-section-4 .u-layout-wrap-1 {
-    position: relative;
   }
 
   .u-section-4 .u-layout-cell-2 {
