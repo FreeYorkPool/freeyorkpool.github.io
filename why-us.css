@@ -40,15 +40,18 @@
 .u-section-1 .u-image-1 {
   width: 167px;
   height: 126px;
+  animation-duration: 1000ms;
   margin: 0 auto;
 }
 
 .u-section-1 .u-text-3 {
+  animation-duration: 1000ms;
   margin: 20px auto 0;
 }
 
 .u-section-1 .u-text-4 {
   font-size: 1rem;
+  animation-duration: 1000ms;
   margin: 33px 0 0;
 }
 
@@ -63,15 +66,18 @@
 .u-section-1 .u-image-2 {
   width: 118px;
   height: 142px;
+  animation-duration: 1000ms;
   margin: -8px auto 0;
 }
 
 .u-section-1 .u-text-5 {
+  animation-duration: 1000ms;
   margin: 12px 0 0;
 }
 
 .u-section-1 .u-text-6 {
   font-size: 1rem;
+  animation-duration: 1000ms;
   margin: 20px 0 0;
 }
 
