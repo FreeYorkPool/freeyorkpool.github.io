@@ -3,7 +3,8 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 21px 449px 0 450px;
+  font-size: 1.875rem;
+  margin: 21px 0 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -18,7 +19,6 @@
     width: 286px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 1.875rem;
   }
 
   .u-section-1 .u-text-2 {
