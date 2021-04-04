@@ -42,7 +42,6 @@
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   width: 1140px;
   grid-gap: 10px 10px;
-  height: auto;
   margin: -228px auto 40px;
 }
 
@@ -152,6 +151,7 @@
   .u-section-2 .u-list-1 {
     min-height: 772px;
     width: 941px;
+    height: auto;
     margin-bottom: 52px;
   }
 
@@ -395,9 +395,10 @@
 }
 
 .u-section-3 .u-text-1 {
-  font-family: "Archivo Black";
   font-size: 4.5rem;
   animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: Roboto, sans-serif;
   margin: -472px 301px 60px 76px;
 }
 
@@ -424,12 +425,12 @@
   }
 
   .u-section-3 .u-shape-1 {
-    margin-right: 186px;
+    margin-top: 146px;
+    margin-right: 0;
     margin-left: 259px;
   }
 
   .u-section-3 .u-text-1 {
-    font-size: 6rem;
     margin-right: 0;
   }
 }
@@ -443,12 +444,11 @@
     width: 334px;
     height: 334px;
     margin-top: 100px;
-    margin-right: 0;
     margin-left: 206px;
   }
 
   .u-section-3 .u-text-1 {
-    font-size: 4.5rem;
+    font-size: 3.75rem;
     width: auto;
     margin-top: -387px;
   }
@@ -462,14 +462,14 @@
   .u-section-3 .u-shape-1 {
     width: 255px;
     height: 255px;
-    margin-top: 97px;
-    margin-left: auto;
+    margin-top: 137px;
+    margin-left: 85px;
   }
 
   .u-section-3 .u-text-1 {
-    font-size: 3rem;
-    margin-top: -348px;
+    margin-top: -352px;
     margin-right: 35px;
+    font-size: 2.25rem;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 723px;
