@@ -33049,7 +33049,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  margin: 15px auto 0 0;
+  margin: 14px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -33058,7 +33058,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -35px auto 0 1116px;
+  margin: -34px auto 0 1116px;
 }
 
 .u-header .u-nav-1 {
@@ -33101,11 +33101,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-icon-2 {
   height: 100%;
+  color: rgb(0, 0, 0) !important;
 }
 
 .u-header .u-icon-3 {
   height: 100%;
-  color: rgb(0, 0, 0) !important;
 }
 
 .u-header .u-icon-4 {
@@ -33130,6 +33130,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-icon-6 {
   height: 25px;
   width: 25px;
+  background-image: none;
   margin: -28px 83px 0 auto;
 }
 @media (max-width: 1199px) {
@@ -33139,7 +33140,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -35px;
+    margin-top: -34px;
     margin-right: 249px;
     margin-left: 920px;
   }
@@ -33300,20 +33301,25 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -23px auto 43px;
 }
 @media (max-width: 1199px) {
+  .u-footer .u-social-icons-1 {
+    width: 122px;
+    margin-right: 0;
+  }
+
   .u-footer .u-icon-1 {
     color: rgb(85, 172, 238) !important;
   }
 
   .u-footer .u-icon-2 {
-    color: rgb(0, 122, 185) !important;
+    color: rgb(197, 54, 164) !important;
   }
 
   .u-footer .u-icon-3 {
-    color: rgb(59, 89, 152) !important;
+    color: rgb(0, 122, 185) !important;
   }
 
   .u-footer .u-icon-4 {
-    color: rgb(197, 54, 164) !important;
+    color: rgb(59, 89, 152) !important;
   }
 
   .u-footer .u-text-1 {

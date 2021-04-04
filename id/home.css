@@ -1411,6 +1411,7 @@
   font-style: italic;
   font-weight: 800;
   font-size: 3.75rem;
+  margin-top: 0;
 }
 
 @media (max-width: 1199px) {

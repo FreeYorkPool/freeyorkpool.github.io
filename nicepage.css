@@ -33101,11 +33101,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-icon-2 {
   height: 100%;
+  color: rgb(0, 0, 0) !important;
 }
 
 .u-header .u-icon-3 {
   height: 100%;
-  color: rgb(0, 0, 0) !important;
 }
 
 .u-header .u-icon-4 {
@@ -33130,6 +33130,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-icon-6 {
   height: 25px;
   width: 25px;
+  background-image: none;
   margin: -28px 83px 0 auto;
 }
 @media (max-width: 1199px) {
@@ -33305,15 +33306,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-icon-2 {
-    color: rgb(0, 122, 185) !important;
+    color: rgb(197, 54, 164) !important;
   }
 
   .u-footer .u-icon-3 {
-    color: rgb(59, 89, 152) !important;
+    color: rgb(0, 122, 185) !important;
   }
 
   .u-footer .u-icon-4 {
-    color: rgb(197, 54, 164) !important;
+    color: rgb(59, 89, 152) !important;
   }
 
   .u-footer .u-text-1 {
