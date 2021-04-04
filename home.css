@@ -10,7 +10,7 @@
   width: 570px;
   height: 245px;
   background-image: none;
-  margin: 86px 89px 0 auto;
+  margin: 93px 89px 0 481px;
 }
 
 .u-section-1 .u-shape-2 {
@@ -21,7 +21,7 @@
 
 .u-section-1 .u-layout-wrap-1 {
   width: 898px;
-  margin: -516px auto 60px;
+  margin: -516px auto 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -36,13 +36,13 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 2.25rem;
-  margin: 187px 0 0;
+  margin: 183px 0 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 1rem;
   font-weight: 300;
-  margin: 12px 8px 0 0;
+  margin: 16px 8px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -70,6 +70,7 @@
   .u-section-1 .u-shape-1 {
     margin-top: 84px;
     margin-right: 11px;
+    margin-left: 370px;
   }
 
   .u-section-1 .u-shape-2 {
@@ -85,26 +86,28 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 888px;
+    min-height: 828px;
   }
 
   .u-section-1 .u-shape-1 {
     width: 416px;
     height: 232px;
-    margin-top: 90px;
+    margin-top: 67px;
     margin-right: 0;
+    margin-left: auto;
   }
 
   .u-section-1 .u-shape-2 {
     width: 437px;
     height: 238px;
-    margin-top: 292px;
+    margin-top: 315px;
     margin-left: 0;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     width: 680px;
-    margin-top: -739px;
+    margin-top: -767px;
+    margin-bottom: 28px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -138,20 +141,19 @@
   }
 
   .u-section-1 .u-shape-1 {
-    margin-top: 88px;
+    margin-top: 62px;
   }
 
   .u-section-1 .u-shape-2 {
     width: 428px;
     height: 245px;
-    margin-top: 384px;
+    margin-top: 399px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     width: 478px;
-    margin-top: -832px;
-    margin-bottom: 40px;
-    margin-left: 31px;
+    margin-top: -843px;
+    margin-bottom: 60px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -178,7 +180,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 713px;
+    min-height: 641px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -194,7 +196,6 @@
   .u-section-1 .u-layout-wrap-1 {
     width: 300px;
     margin-top: -606px;
-    margin-left: auto;
     margin-bottom: 43px;
   }
 
