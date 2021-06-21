@@ -5507,6 +5507,7 @@ a {
   }
   .u-form-horizontal .u-form-group {
     border: 0.5rem solid transparent !important;
+    margin-right: 0 !important;
   }
   .u-form-horizontal label {
     display: none;
@@ -16804,6 +16805,9 @@ p {
 .u-accordion:not([class*="u-align-"]),
 .u-repeater-item:not([class*="u-align-"]),
 .u-container-style:not([class*="u-align-"]) {
+  text-align: left;
+}
+.u-nav:not([class*="u-align-"]) .u-nav {
   text-align: left;
 }
 .u-text {
@@ -34431,7 +34435,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
   font-weight: 700;
   animation-duration: 10000ms;
-  margin: -23px 128px 0 auto;
+  margin: -23px 128px 0 891px;
 }
 
 .u-header .u-icon-5 {
@@ -34445,6 +34449,7 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 25px;
   width: 25px;
   background-image: none;
+  color: rgb(71, 138, 201) !important;
   margin: -28px 83px 0 auto;
 }
 @media (max-width: 1199px) {
@@ -34468,6 +34473,7 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-top: -23px;
     margin-right: 118px;
+    margin-left: 791px;
   }
 
   .u-header .u-icon-5 {
@@ -34497,6 +34503,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-right: 121px;
+    margin-left: 599px;
   }
 
   .u-header .u-icon-5 {

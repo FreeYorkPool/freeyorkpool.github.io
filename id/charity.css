@@ -104,7 +104,7 @@
   text-shadow: 2px 2px 8px rgba(1,27,48,0.4);
   font-size: 3rem;
   font-weight: 700;
-  margin: 350px 522px 0 14px;
+  margin: 0;
 }
 
 .u-section-1-2 .u-btn-1 {
@@ -123,8 +123,6 @@
   .u-section-1-2 .u-text-1 {
     width: auto;
     margin-top: 272px;
-    margin-left: 0;
-    margin-right: 336px;
   }
 
   .u-section-1-2 .u-btn-1 {
@@ -143,10 +141,6 @@
     min-height: 652px;
   }
 
-  .u-section-1-2 .u-text-1 {
-    margin-right: 116px;
-  }
-
   .u-section-1-2 .u-btn-1 {
     margin-left: 0;
   }
@@ -160,7 +154,6 @@
   .u-section-1-2 .u-text-1 {
     font-size: 1.875rem;
     margin-top: 103px;
-    margin-right: 0;
   }
 
   .u-section-1-2 .u-btn-1 {
@@ -203,7 +196,7 @@
   text-shadow: 2px 2px 8px rgba(1,27,48,0.4);
   font-weight: 700;
   font-size: 3rem;
-  margin: 214px 471px 0 65px;
+  margin: 0;
 }
 
 .u-section-1-3 .u-btn-1 {
@@ -217,11 +210,6 @@
 @media (max-width: 1199px) {
   .u-section-1-3 .u-sheet-1 {
     min-height: 586px;
-  }
-
-  .u-section-1-3 .u-text-1 {
-    margin-left: 0;
-    margin-right: 336px;
   }
 
   .u-section-1-3 .u-btn-1 {
@@ -241,7 +229,6 @@
 
   .u-section-1-3 .u-text-1 {
     width: auto;
-    margin-right: 116px;
   }
 }
 
@@ -257,7 +244,6 @@
   .u-section-1-3 .u-text-1 {
     font-size: 1.875rem;
     margin-top: 99px;
-    margin-right: 0;
   }
 
   .u-section-1-3 .u-btn-1 {
@@ -371,7 +357,7 @@
   font-size: 1.125rem;
   letter-spacing: 3px;
   font-weight: normal;
-  margin: 16px 0 0;
+  margin: 16px 1px 0 0;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -390,7 +376,7 @@
   font-size: 1.125rem;
   letter-spacing: 3px;
   font-weight: normal;
-  margin: 16px 0 0;
+  margin: 16px 1px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -518,6 +504,14 @@
     width: 340px;
     margin-bottom: 60px;
   }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 0;
+  }
 }.u-section-3 {
   background-image: none;
   min-height: 50vw;
@@ -553,12 +547,12 @@
 .u-section-3 .u-text-1 {
   font-weight: 300;
   font-size: 2.25rem;
-  margin: 30px 246px 0 0;
+  margin: 30px 247px 0 0;
 }
 
 .u-section-3 .u-text-2 {
   font-size: 0.875rem;
-  margin: 20px 0 0;
+  margin: 20px 1px 0 0;
 }
 
 .u-section-3 .u-table-1 {
@@ -610,6 +604,10 @@
 
   .u-section-3 .u-text-1 {
     margin-right: 137px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
   }
 
   .u-section-3 .u-table-1 {
