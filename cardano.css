@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   min-height: 800px;
 }
 
@@ -138,7 +138,7 @@
     width: 418%;
     left: -159%;
   }
-}.u-section-2 {
+} .u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/cardano-decentralize.jpg");
 }
 
@@ -289,7 +289,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 {
+   .u-section-2 {
     background-position: 50% 50%;
   }
 
@@ -480,13 +480,13 @@
   .u-section-2 .u-image-1 {
     margin-top: 0;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: none;
 }
 
 .u-section-3 .u-sheet-1 {
   min-height: 10px;
-}.u-section-4 {
+} .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/9d63430d-8f5d-4697-9139-18d3979ac77d.jpg");
   background-position: 50% 50%;
 }
@@ -584,13 +584,13 @@
     margin-right: initial;
     margin-left: initial;
   }
-}.u-section-5 {
+} .u-section-5 {
   background-image: none;
 }
 
 .u-section-5 .u-sheet-1 {
   min-height: 10px;
-}.u-section-6 {
+} .u-section-6 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/33ffe536d6076d446aa5ec4c7a3ddc735c59ae9f0bc101c6c4eb76217e680a53c2ba098de3e45a4aee2d1689cc21632cc1049edfb04a8d77b62d20_1280.jpg");
   background-position: 50% 50%;
 }
@@ -739,13 +739,13 @@
   .u-section-6 .u-video-1 {
     width: 320px;
   }
-}.u-section-7 {
+} .u-section-7 {
   background-image: none;
 }
 
 .u-section-7 .u-sheet-1 {
   min-height: 10px;
-}.u-section-8 {
+} .u-section-8 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/765907c50e558954d525e795626f3554f2eebf24370071eeb0270145b98dd8fa9cfa047fcb9682e81e3b372b8d7b4e78aaa132d70d3a1fc28b0a91_1280.jpg");
   background-position: 50% 50%;
 }
@@ -901,13 +901,13 @@
   .u-section-8 .u-text-1 {
     margin-top: 34px;
   }
-}.u-section-9 {
+} .u-section-9 {
   background-image: none;
 }
 
 .u-section-9 .u-sheet-1 {
   min-height: 10px;
-}.u-section-10 {
+} .u-section-10 {
   background-image: none;
 }
 

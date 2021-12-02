@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: url("images/photo_2021-05-06_13-34-09.jpg");
 }
 
@@ -35,7 +35,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     background-position: 50% 50%;
   }
 
@@ -347,7 +347,7 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: none;
 }
 
@@ -674,7 +674,7 @@
     height: 273px;
     width: 340px;
   }
-}.u-section-5 {
+} .u-section-5 {
   background-image: none;
 }
 
@@ -911,7 +911,7 @@
   .u-section-5 .u-text-5 {
     margin-top: 17px;
   }
-}.u-section-6 {
+} .u-section-6 {
   background-image: url("images/BackgroundIndonesia.png");
   background-position: 50% 50%;
 }
@@ -977,7 +977,7 @@
   .u-section-6 .u-sheet-1 {
     min-height: 257px;
   }
-}.u-section-7 {
+} .u-section-7 {
   background-image: none;
 }
 
